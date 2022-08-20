@@ -1,0 +1,2 @@
+# reponameMINTIC
+INICIAL
