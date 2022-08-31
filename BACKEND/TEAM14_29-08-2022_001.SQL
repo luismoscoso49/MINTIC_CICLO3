@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /***********************************************************
  *  MODULO    : HOSPITALIZACION  EN CASA 
  *  PROPOSITO : CREACION ESTRUCTURA DE DATOS
@@ -5,6 +6,8 @@
  *  FECHA     : 29/08/2022
  *************************************************************/				
  
+=======
+>>>>>>> 490b63f23c007a753f5cb8ca2ba58754c7dd1757
 drop database hospital;
 create schema hospital;
 use hospital;
